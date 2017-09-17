@@ -1,4 +1,24 @@
-body{
-  /*some styles*/
-  background-color: blue;
+.articulo .title {
+  color: #c381c2;
+  text-align: center;
+}
+
+.articulo .hero-image{
+  width: 100%;
+  height: 100px;
+  background-image: url('../img/council_of_nine.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.articulo img.article-image{
+  max-width: 100%;
+}
+
+.articulo p.main-text{
+  font-size: 14px;
+}
+
+.articulo .subtitulo {
+  font-size: 13px;
 }
